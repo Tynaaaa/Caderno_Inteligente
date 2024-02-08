@@ -1,0 +1,117 @@
+#principal{
+	margin-right: 125px;
+	margin-left: 125px;
+}
+
+#cabecalho{
+	background: #A66A6A;
+	text-align: center;
+}
+
+#logotipo{
+	background: #A66A6A;
+}
+#titulo{
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 50px;
+
+}
+
+#abas{
+	font-size: 20px;
+	color: #A66A6A;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: #F2F2F2;
+	padding: 10px;
+	padding-bottom: 0px;
+
+}
+
+a:link a: visited a: active{
+	color: #A66A6A;
+}
+
+a:hover{
+	color: #A66A6A;
+	background: #E7B9B9;
+
+}
+
+td{
+	padding-right: 5px;
+}
+
+
+#final{
+	background: #A66A6A;
+	color: white;
+	text-align: center;
+	font-size: 10px;
+	padding: 5px;
+	font-size: 20px;
+}
+
+#rodape{
+	background-color: #44089B;
+	color: white;
+	padding:20px;
+}
+
+
+
+H1{
+	color: black;
+	text-align: center;
+	font-size: 15px;
+	padding: 0px;
+}
+
+#cor-preco{
+	color: #A66A6A;
+}
+
+#cor-cinza{
+	color: #707070;
+	text-decoration: line-through;
+}
+
+.banner1{
+  width: 50%;
+  height: 100px;
+  margin: 0 auto; 
+  animation: slides 15s infinite;
+  float: center;
+}
+
+h2{
+	color: #A66A6A;
+	font-size: 25px;
+}
+p{
+	text-align: justify;
+}
+
+#produto{
+	background-color: #A66A6A;
+	text-align: justify;
+	color: #E6E6E6;
+	padding-right: 15px;
+	padding-bottom: 15px;
+
+}
+
+#apresentação{
+	background-color:#E6E6E6;
+	padding: 32px;
+}
+
+
+
+
